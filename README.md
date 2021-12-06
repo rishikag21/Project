@@ -29,11 +29,25 @@ for learning what is github
 
 ![Vrsec](https://getmyuni.azureedge.net/college-image/big/velagapudi-ramakrishna-siddhartha-engineering-college-vrsec-vijayawada.jpg)
 
-for learning what is github 
+~~for learning  what is github~~
 
 S.No|Name|Section
 ----|----|-------
 1|Rishika|3
 2|Hanitha|2
+
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+
+:EMOJICODE:
+
+
+
+    
+    
+    
+    
 
 
